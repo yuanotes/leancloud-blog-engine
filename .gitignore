@@ -1,0 +1,9 @@
+node_modules
+start.sh
+*.log
+**/.idea/workspace.xml
+
+# VIM
+*~
+*.swp
+.avoscloud/
